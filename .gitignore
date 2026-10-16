@@ -1,0 +1,13 @@
+# Credenciais e variáveis de ambiente
+.env
+.env.*
+!.env.example
+
+# Logs
+*.log
+
+# Backups e dados locais
+backups/
+postgres_data/
+redis_data/
+storage_data/
